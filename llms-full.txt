@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Page not found | Tori Coltman</title>
+  <meta name="description" content="Page not found.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://uthrofazeroth.github.io/tori-coltman/404.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Tori Coltman">
+  <meta property="og:title" content="Page not found | Tori Coltman">
+  <meta property="og:description" content="Page not found.">
+  <meta property="og:url" content="https://uthrofazeroth.github.io/tori-coltman/404.html">
+  <meta property="og:image" content="https://uthrofazeroth.github.io/tori-coltman/Before%20Winter%20ebook%20cover.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Page not found | Tori Coltman">
+  <meta name="twitter:description" content="Page not found.">
+  <meta name="theme-color" content="#fbf7f2">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="stylesheet" href="style.css">
+  
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebPage", "name": "404", "url": "https://uthrofazeroth.github.io/tori-coltman/404.html"}</script>
+</head>
+<body>
+<a class="skip-link" href="#content">Skip to content</a>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="index.html">
+      <span class="brand-mark" aria-hidden="true">TC</span>
+      <span class="brand-text">Tori Coltman</span>
+    </a>
+    <nav class="nav" aria-label="Primary">
+      <a href="index.html">Home</a>
+      <a href="about/">About</a>
+      <a href="books/">Books</a>
+    </nav>
+  </div>
+</header>
+<main id="content">
+
+<section class="page-top">
+  <div class="wrap">
+    <div class="copy-block">
+      <p class="eyebrow">404</p>
+      <h1 class="page-title">Page not found</h1>
+      <p class="lead">The page you were looking for is not here.</p>
+      <div class="actions">
+        <a class="button primary" href="./">Go to the homepage</a>
+        <a class="button secondary" href="./books/">Browse the books</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+</main>
+<footer class="footer">
+  <div class="wrap footer-inner">
+    <div>
+      <div>Stories about love, timing, and the moments that change everything.</div>
+      <div class="small">© Tori Coltman</div>
+    </div>
+    <nav class="footer-nav" aria-label="Footer">
+      <a href="index.html">Home</a>
+      <a href="about/">About</a>
+      <a href="books/">Books</a>
+      <a href="information/">Information</a>
+      <a href="privacy/">Privacy</a>
+    </nav>
+  </div>
+</footer>
+</body>
+</html>
