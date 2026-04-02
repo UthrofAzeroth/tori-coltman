@@ -246,6 +246,25 @@ p:last-child{margin-bottom:0}
 .inline-links a{
   color:var(--accent-strong);
 }
+
+.book-actions{
+  display:flex;
+  flex-wrap:wrap;
+  gap:.75rem;
+  margin-top:1rem;
+}
+.book-actions .button{
+  min-height:42px;
+  padding:.78rem 1rem;
+  font-size:.95rem;
+}
+.button.buy{
+  background:rgba(255,255,255,.82);
+  color:var(--ink);
+}
+.availability .button{
+  margin-top:.8rem;
+}
 .split{
   display:grid;
   grid-template-columns:minmax(0,1fr) minmax(280px,.78fr);
