@@ -1,0 +1,303 @@
+from pathlib import Path
+
+html = """<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tori Coltman</title>
+  <meta name="description" content="Official author website for Tori Coltman.">
+  <meta name="robots" content="index,follow">
+  <style>
+    :root{
+      --bg:#f7f2eb;
+      --paper:#fffdfa;
+      --text:#2f2a26;
+      --muted:#6b625c;
+      --line:#ddd2c8;
+      --accent:#7d6a5c;
+      --accent-2:#a68b7a;
+      --max:1040px;
+    }
+
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{
+      margin:0;
+      font-family: Georgia, "Times New Roman", serif;
+      background:var(--bg);
+      color:var(--text);
+      line-height:1.65;
+    }
+
+    a{color:inherit}
+    img{max-width:100%;display:block}
+
+    .site-header{
+      position:sticky;
+      top:0;
+      z-index:10;
+      background:rgba(247,242,235,.92);
+      backdrop-filter:blur(8px);
+      border-bottom:1px solid var(--line);
+    }
+
+    .wrap{
+      width:min(calc(100% - 2rem), var(--max));
+      margin:0 auto;
+    }
+
+    .nav{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:1rem;
+      padding:1rem 0;
+    }
+
+    .brand{
+      text-decoration:none;
+      font-size:1.1rem;
+      letter-spacing:.04em;
+    }
+
+    .nav-links{
+      display:flex;
+      gap:1rem;
+      flex-wrap:wrap;
+      font-size:.95rem;
+    }
+
+    .nav-links a{
+      text-decoration:none;
+      color:var(--muted);
+    }
+
+    .hero{
+      padding:5rem 0 3rem;
+    }
+
+    .eyebrow{
+      display:inline-block;
+      margin-bottom:1rem;
+      color:var(--accent);
+      letter-spacing:.12em;
+      text-transform:uppercase;
+      font-size:.78rem;
+    }
+
+    h1,h2,h3{
+      line-height:1.15;
+      font-weight:normal;
+      margin:0 0 1rem;
+    }
+
+    h1{
+      font-size:clamp(2.4rem,5vw,4.6rem);
+      max-width:11ch;
+    }
+
+    h2{
+      font-size:clamp(1.8rem,3vw,2.6rem);
+    }
+
+    .lead{
+      max-width:44rem;
+      font-size:1.12rem;
+      color:var(--muted);
+    }
+
+    .actions{
+      display:flex;
+      gap:.9rem;
+      flex-wrap:wrap;
+      margin-top:1.5rem;
+    }
+
+    .btn{
+      display:inline-block;
+      padding:.9rem 1.15rem;
+      border:1px solid var(--accent);
+      text-decoration:none;
+      border-radius:999px;
+      background:transparent;
+    }
+
+    .btn.primary{
+      background:var(--accent);
+      color:#fffdfa;
+    }
+
+    .section{
+      padding:2.4rem 0 1rem;
+    }
+
+    .panel{
+      background:var(--paper);
+      border:1px solid var(--line);
+      border-radius:22px;
+      padding:1.4rem;
+      box-shadow:0 8px 30px rgba(64,41,22,.04);
+    }
+
+    .grid{
+      display:grid;
+      gap:1rem;
+    }
+
+    .books{
+      grid-template-columns:repeat(3,minmax(0,1fr));
+    }
+
+    .book-card{
+      background:var(--paper);
+      border:1px solid var(--line);
+      border-radius:22px;
+      padding:1rem;
+    }
+
+    .cover{
+      aspect-ratio:2 / 3;
+      border-radius:16px;
+      border:1px dashed var(--accent-2);
+      background:linear-gradient(180deg,#f3ebe2,#efe4d8);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      text-align:center;
+      padding:1rem;
+      color:var(--muted);
+      margin-bottom:1rem;
+    }
+
+    .meta{
+      color:var(--muted);
+      font-size:.95rem;
+    }
+
+    .footer{
+      padding:3rem 0 4rem;
+      color:var(--muted);
+      font-size:.95rem;
+    }
+
+    .small{
+      font-size:.95rem;
+      color:var(--muted);
+    }
+
+    ul.clean{
+      margin:0;
+      padding-left:1.1rem;
+    }
+
+    @media (max-width: 860px){
+      .books{
+        grid-template-columns:1fr;
+      }
+      .nav{
+        align-items:flex-start;
+        flex-direction:column;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap nav">
+      <a class="brand" href="#top">Tori Coltman</a>
+      <nav class="nav-links" aria-label="Primary">
+        <a href="#about">About</a>
+        <a href="#books">Books</a>
+        <a href="#notes">Notes</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="wrap">
+        <span class="eyebrow">Author Website — Starter File</span>
+        <h1>Tori Coltman</h1>
+        <p class="lead">
+          This is a clean starter homepage for a GitHub Pages author site.
+          It is intentionally simple: no photo, no email, no newsletter, and no heavy styling decisions locked in yet.
+        </p>
+        <div class="actions">
+          <a class="btn primary" href="#books">View books</a>
+          <a class="btn" href="#about">About the author</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="section">
+      <div class="wrap panel">
+        <h2>About</h2>
+        <p>
+          Replace this section with the locked author bio and positioning once you are ready.
+          Keep the tone warm, grounded, adult, and restrained.
+        </p>
+        <p class="small">
+          Planning note: this starter keeps the public presence intentionally low-profile and book-led.
+        </p>
+      </div>
+    </section>
+
+    <section id="books" class="section">
+      <div class="wrap">
+        <h2>Books</h2>
+        <p class="lead">
+          Use this section as the starting point for featured books, individual book pages, or both.
+        </p>
+
+        <div class="grid books">
+          <article class="book-card">
+            <div class="cover">Cover placeholder<br>Thirty Minutes</div>
+            <h3>Thirty Minutes</h3>
+            <p class="meta">Book page and retailer links to be added later.</p>
+          </article>
+
+          <article class="book-card">
+            <div class="cover">Cover placeholder<br>Before Winter</div>
+            <h3>Before Winter</h3>
+            <p class="meta">Book page and retailer links to be added later.</p>
+          </article>
+
+          <article class="book-card">
+            <div class="cover">Cover placeholder<br>When Summer Ends</div>
+            <h3>When Summer Ends</h3>
+            <p class="meta">Book page and retailer links to be added later.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="notes" class="section">
+      <div class="wrap panel">
+        <h2>Next planning notes</h2>
+        <ul class="clean">
+          <li>Swap placeholder copy for locked website copy.</li>
+          <li>Decide whether the finished site stays single-page or grows into separate book pages.</li>
+          <li>Add real cover images when available.</li>
+          <li>Add metadata, sitemap, robots, and any later policy/trust pages if needed.</li>
+        </ul>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap">
+      <p>© <span id="year"></span> Tori Coltman</p>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
+"""
+
+path = Path("/mnt/data/tori_coltman_base_index.html")
+path.write_text(html, encoding="utf-8")
+print(f"Created {path}")
