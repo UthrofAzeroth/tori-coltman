@@ -1,14 +1,20 @@
-/* TEAM */
-Author site: Tori Coltman
-Build package: static HTML and CSS
-Design direction: warm editorial minimalism
-Hosting target: GitHub Pages
-
-/* CONTENT */
-Core pages: Home, About, Books, individual book pages, Information, Privacy
-Public contact email: none listed
-Newsletter: none
-Author photo: none
-
-/* TECH */
-HTML, CSS, JSON-LD, sitemap.xml, robots.txt, llms files
+{
+  "name": "Tori Coltman",
+  "short_name": "Tori Coltman",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbf7f2",
+  "theme_color": "#fbf7f2",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

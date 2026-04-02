@@ -1,11 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Tori Coltman">
-  <defs>
-    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#ceb1ab"/>
-      <stop offset="100%" stop-color="#bcc3b7"/>
-    </linearGradient>
-  </defs>
-  <rect width="128" height="128" rx="28" fill="#fbf7f2"/>
-  <circle cx="64" cy="64" r="46" fill="url(#g)" opacity="0.9"/>
-  <text x="64" y="74" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700" fill="#5f4a44">TC</text>
-</svg>
+User-agent: *
+Allow: /
+
+Sitemap: https://uthrofazeroth.github.io/tori-coltman/sitemap.xml

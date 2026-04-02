@@ -1,76 +1,25 @@
-<!DOCTYPE html>
-<html lang="en-GB">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Privacy note | Tori Coltman</title>
-  <meta name="description" content="Privacy information for the Tori Coltman author website.">
-  <meta name="robots" content="index,follow">
-  <link rel="canonical" href="https://uthrofazeroth.github.io/tori-coltman/privacy/">
-  <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Tori Coltman">
-  <meta property="og:title" content="Privacy note | Tori Coltman">
-  <meta property="og:description" content="Privacy information for the Tori Coltman author website.">
-  <meta property="og:url" content="https://uthrofazeroth.github.io/tori-coltman/privacy/">
-  <meta property="og:image" content="https://uthrofazeroth.github.io/tori-coltman/Before%20Winter%20ebook%20cover.jpg">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Privacy note | Tori Coltman">
-  <meta name="twitter:description" content="Privacy information for the Tori Coltman author website.">
-  <meta name="theme-color" content="#fbf7f2">
-  <link rel="icon" href="../favicon.svg" type="image/svg+xml">
-  <link rel="manifest" href="../site.webmanifest">
-  <link rel="stylesheet" href="../style.css">
-  
-  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebPage", "name": "Privacy note", "url": "https://uthrofazeroth.github.io/tori-coltman/privacy/"}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://uthrofazeroth.github.io/tori-coltman/"}, {"@type": "ListItem", "position": 2, "name": "Privacy", "item": "https://uthrofazeroth.github.io/tori-coltman/privacy/"}]}</script>
-</head>
-<body>
-<a class="skip-link" href="#content">Skip to content</a>
-<header class="site-header">
-  <div class="wrap header-inner">
-    <a class="brand" href="../">
-      <span class="brand-mark" aria-hidden="true">TC</span>
-      <span class="brand-text">Tori Coltman</span>
-    </a>
-    <nav class="nav" aria-label="Primary">
-      <a href="../">Home</a>
-      <a href="../about/">About</a>
-      <a href="../books/">Books</a>
-    </nav>
-  </div>
-</header>
-<main id="content">
+# Tori Coltman
 
-<section class="page-top">
-  <div class="wrap">
-    <p class="breadcrumbs"><a href="../">Home</a> / Privacy</p>
-    <div class="copy-grid">
-      <div class="copy-block">
-        <p class="eyebrow">Privacy</p>
-        <h1 class="page-title">Privacy note</h1>
-        <p>This site is a simple public author website. It does not currently provide reader accounts, contact forms, newsletter sign-ups, or on-site comments.</p>
-        <p>No direct personal details are requested from visitors through the site itself at this stage.</p>
-        <p>If that changes later, this page should be updated to reflect the live site accurately.</p>
-      </div>
-    </div>
-  </div>
-</section>
+Base URL: https://uthrofazeroth.github.io/tori-coltman/
+Site type: public author website
 
-</main>
-<footer class="footer">
-  <div class="wrap footer-inner">
-    <div>
-      <div>Stories about love, timing, and the moments that change everything.</div>
-      <div class="small">© Tori Coltman</div>
-    </div>
-    <nav class="footer-nav" aria-label="Footer">
-      <a href="../">Home</a>
-      <a href="../about/">About</a>
-      <a href="../books/">Books</a>
-      <a href="../information/">Information</a>
-      <a href="../privacy/">Privacy</a>
-    </nav>
-  </div>
-</footer>
-</body>
-</html>
+Summary:
+Tori Coltman writes emotionally grounded contemporary love stories shaped by timing, closeness, and change.
+
+Primary pages:
+- / : homepage and featured books
+- /about/ : author bio and positioning
+- /books/ : books index
+- /books/thirty-minutes/ : title page
+- /books/before-winter/ : title page
+- /books/when-summer-ends/ : title page
+- /information/ : site information
+- /privacy/ : privacy note
+
+Books:
+- Thirty Minutes
+- Before Winter
+- When Summer Ends
+
+Public contact:
+- No public direct contact email is currently listed on the site.

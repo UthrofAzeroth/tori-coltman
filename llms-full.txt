@@ -1,74 +1,38 @@
-<!DOCTYPE html>
-<html lang="en-GB">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Page not found | Tori Coltman</title>
-  <meta name="description" content="Page not found.">
-  <meta name="robots" content="index,follow">
-  <link rel="canonical" href="https://uthrofazeroth.github.io/tori-coltman/404.html">
-  <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Tori Coltman">
-  <meta property="og:title" content="Page not found | Tori Coltman">
-  <meta property="og:description" content="Page not found.">
-  <meta property="og:url" content="https://uthrofazeroth.github.io/tori-coltman/404.html">
-  <meta property="og:image" content="https://uthrofazeroth.github.io/tori-coltman/Before%20Winter%20ebook%20cover.jpg">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Page not found | Tori Coltman">
-  <meta name="twitter:description" content="Page not found.">
-  <meta name="theme-color" content="#fbf7f2">
-  <link rel="icon" href="favicon.svg" type="image/svg+xml">
-  <link rel="manifest" href="site.webmanifest">
-  <link rel="stylesheet" href="style.css">
-  
-  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebPage", "name": "404", "url": "https://uthrofazeroth.github.io/tori-coltman/404.html"}</script>
-</head>
-<body>
-<a class="skip-link" href="#content">Skip to content</a>
-<header class="site-header">
-  <div class="wrap header-inner">
-    <a class="brand" href="index.html">
-      <span class="brand-mark" aria-hidden="true">TC</span>
-      <span class="brand-text">Tori Coltman</span>
-    </a>
-    <nav class="nav" aria-label="Primary">
-      <a href="index.html">Home</a>
-      <a href="about/">About</a>
-      <a href="books/">Books</a>
-    </nav>
-  </div>
-</header>
-<main id="content">
+# Tori Coltman — full site summary
 
-<section class="page-top">
-  <div class="wrap">
-    <div class="copy-block">
-      <p class="eyebrow">404</p>
-      <h1 class="page-title">Page not found</h1>
-      <p class="lead">The page you were looking for is not here.</p>
-      <div class="actions">
-        <a class="button primary" href="./">Go to the homepage</a>
-        <a class="button secondary" href="./books/">Browse the books</a>
-      </div>
-    </div>
-  </div>
-</section>
+This is a static author website for Tori Coltman.
 
-</main>
-<footer class="footer">
-  <div class="wrap footer-inner">
-    <div>
-      <div>Stories about love, timing, and the moments that change everything.</div>
-      <div class="small">© Tori Coltman</div>
-    </div>
-    <nav class="footer-nav" aria-label="Footer">
-      <a href="index.html">Home</a>
-      <a href="about/">About</a>
-      <a href="books/">Books</a>
-      <a href="information/">Information</a>
-      <a href="privacy/">Privacy</a>
-    </nav>
-  </div>
-</footer>
-</body>
-</html>
+Author positioning:
+Emotionally grounded contemporary love stories shaped by timing, closeness, and change.
+
+Homepage summary:
+The homepage introduces Tori Coltman, presents the core positioning line, and links directly to the books catalogue and About page.
+
+About page summary:
+The About page contains the longer author bio:
+Tori Coltman writes emotionally grounded contemporary love stories. Her fiction is drawn to ordinary settings, close emotional observation, and the moments when timing changes everything. Across her books, she returns to intimacy, longing, grief, hope, and the quiet ways people care for one another under pressure.
+
+Books index summary:
+The Books page introduces the body of work with this line:
+Books by Tori Coltman explore love, timing, loss, hope, and the emotional weight carried inside ordinary lives.
+
+Book pages:
+- Thirty Minutes: A contemporary love story about attraction, timing, and the way ordinary encounters can open into something life-changing.
+- Before Winter: A deeply intimate love story shaped by illness, care, time running short, and the emotional truth of what it means to stay close when everything changes.
+- When Summer Ends: A contemporary romance about timing, attraction, and the fragile intensity of connection when people meet outside the shape of ordinary life.
+
+Site notes:
+- No author photo is used.
+- No newsletter is used.
+- No public direct contact email is listed.
+- Retailer links can be added later on each title page.
+
+Important URLs:
+- https://uthrofazeroth.github.io/tori-coltman/
+- https://uthrofazeroth.github.io/tori-coltman/about/
+- https://uthrofazeroth.github.io/tori-coltman/books/
+- https://uthrofazeroth.github.io/tori-coltman/books/thirty-minutes/
+- https://uthrofazeroth.github.io/tori-coltman/books/before-winter/
+- https://uthrofazeroth.github.io/tori-coltman/books/when-summer-ends/
+- https://uthrofazeroth.github.io/tori-coltman/information/
+- https://uthrofazeroth.github.io/tori-coltman/privacy/
