@@ -4,22 +4,26 @@ Base URL: https://uthrofazeroth.github.io/tori-coltman/
 Site type: public author website
 
 Summary:
-Tori Coltman writes emotionally grounded contemporary love stories shaped by timing, closeness, and change.
+Tori Coltman writes emotionally grounded contemporary love stories shaped by timing, closeness, class, and change.
 
 Primary pages:
 - / : homepage and featured books
 - /about/ : author bio and positioning
 - /books/ : books index
-- /books/thirty-minutes/ : title page
-- /books/before-winter/ : title page
+- /books/slipstream/ : title page
+- /books/the-man-in-plain-sight/ : title page
 - /books/when-summer-ends/ : title page
+- /books/before-winter/ : title page
+- /books/thirty-minutes/ : title page
 - /information/ : site information
 - /privacy/ : privacy note
 
 Books:
-- Thirty Minutes
-- Before Winter
+- Slipstream
+- The Man in Plain Sight
 - When Summer Ends
+- Before Winter
+- Thirty Minutes
 
 Public contact:
 - No public direct contact email is currently listed on the site.

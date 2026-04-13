@@ -1,12 +1,14 @@
 Upload the contents of this zip to the root of the GitHub repository.
 
 Important:
-- Leave the three existing JPG cover files in place on GitHub.
-- This package intentionally does not include those three JPG files.
+- Leave the existing JPG cover files in place on GitHub.
+- This package intentionally does not include the JPG cover files.
 - Upload the folders and files as they are.
 - Pages should be set to deploy from main / (root).
 
-Existing cover filenames expected by the HTML:
+Cover filenames expected by the HTML:
 - Before Winter ebook cover.jpg
 - Thirty Minutes ebook cover.jpg
 - When summer ends ebook cover.jpg
+- Slipstream ebook cover.jpg
+- The man in plain sight ebook cover.jpg

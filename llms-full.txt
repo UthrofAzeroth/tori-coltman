@@ -3,36 +3,40 @@
 This is a static author website for Tori Coltman.
 
 Author positioning:
-Emotionally grounded contemporary love stories shaped by timing, closeness, and change.
+Emotionally grounded contemporary love stories shaped by timing, closeness, class, and change.
 
 Homepage summary:
 The homepage introduces Tori Coltman, presents the core positioning line, and links directly to the books catalogue and About page.
 
 About page summary:
 The About page contains the longer author bio:
-Tori Coltman writes emotionally grounded contemporary love stories. Her fiction is drawn to ordinary settings, close emotional observation, and the moments when timing changes everything. Across her books, she returns to intimacy, longing, grief, hope, and the quiet ways people care for one another under pressure.
+Tori Coltman writes contemporary love stories that stay close to emotional truth and the moments that quietly change everything. The books move between ordinary life and pressured elite worlds, but remain focused on intimacy, longing, hope, grief, desire, and change.
 
 Books index summary:
 The Books page introduces the body of work with this line:
-Books by Tori Coltman explore love, timing, loss, hope, and the emotional weight carried inside ordinary lives.
+These novels are shaped by timing, closeness, hope, loss, class, and the emotional pressure carried inside ordinary lives.
 
 Book pages:
-- Thirty Minutes: A contemporary love story about attraction, timing, and the way ordinary encounters can open into something life-changing.
+- Slipstream: An adult contemporary romance set inside elite motorsport, where ambition, class, and scrutiny turn attraction into something dangerous to ignore.
+- The Man in Plain Sight: A contemporary romance about desire, inheritance, social control, and the cost of choosing what is true over what is easy.
+- When Summer Ends: A contemporary romance about attraction, timing, and the fragile intensity of connection when people meet outside the shape of ordinary life.
 - Before Winter: A deeply intimate love story shaped by illness, care, time running short, and the emotional truth of what it means to stay close when everything changes.
-- When Summer Ends: A contemporary romance about timing, attraction, and the fragile intensity of connection when people meet outside the shape of ordinary life.
+- Thirty Minutes: A contemporary love story about attraction, timing, and the way ordinary encounters can open into something life-changing.
 
 Site notes:
 - No author photo is used.
 - No newsletter is used.
 - No public direct contact email is listed.
-- Retailer links can be added later on each title page.
+- Retailer links are included on each title page.
 
 Important URLs:
 - https://uthrofazeroth.github.io/tori-coltman/
 - https://uthrofazeroth.github.io/tori-coltman/about/
 - https://uthrofazeroth.github.io/tori-coltman/books/
-- https://uthrofazeroth.github.io/tori-coltman/books/thirty-minutes/
-- https://uthrofazeroth.github.io/tori-coltman/books/before-winter/
+- https://uthrofazeroth.github.io/tori-coltman/books/slipstream/
+- https://uthrofazeroth.github.io/tori-coltman/books/the-man-in-plain-sight/
 - https://uthrofazeroth.github.io/tori-coltman/books/when-summer-ends/
+- https://uthrofazeroth.github.io/tori-coltman/books/before-winter/
+- https://uthrofazeroth.github.io/tori-coltman/books/thirty-minutes/
 - https://uthrofazeroth.github.io/tori-coltman/information/
 - https://uthrofazeroth.github.io/tori-coltman/privacy/
