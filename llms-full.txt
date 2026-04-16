@@ -17,6 +17,7 @@ The Books page introduces the body of work with this line:
 These novels are shaped by timing, closeness, hope, loss, class, and the emotional pressure carried inside ordinary lives.
 
 Book pages:
+- Fire in the Windows: Tender, intimate, and full of city-night atmosphere, Fire in the Windows is a contemporary love story about shelter, belonging, and the people who let us in.
 - Slipstream: An adult contemporary romance set inside elite motorsport, where ambition, class, and scrutiny turn attraction into something dangerous to ignore.
 - The Man in Plain Sight: A contemporary romance about desire, inheritance, social control, and the cost of choosing what is true over what is easy.
 - When Summer Ends: A contemporary romance about attraction, timing, and the fragile intensity of connection when people meet outside the shape of ordinary life.
@@ -33,6 +34,7 @@ Important URLs:
 - https://uthrofazeroth.github.io/tori-coltman/
 - https://uthrofazeroth.github.io/tori-coltman/about/
 - https://uthrofazeroth.github.io/tori-coltman/books/
+- https://uthrofazeroth.github.io/tori-coltman/books/fire-in-the-windows/
 - https://uthrofazeroth.github.io/tori-coltman/books/slipstream/
 - https://uthrofazeroth.github.io/tori-coltman/books/the-man-in-plain-sight/
 - https://uthrofazeroth.github.io/tori-coltman/books/when-summer-ends/

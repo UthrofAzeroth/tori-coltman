@@ -12,3 +12,5 @@ Cover filenames expected by the HTML:
 - When summer ends ebook cover.jpg
 - Slipstream ebook cover.jpg
 - The man in plain sight ebook cover.jpg
+
+- Fire in the windows ebook cover.jpg

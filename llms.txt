@@ -10,6 +10,7 @@ Primary pages:
 - / : homepage and featured books
 - /about/ : author bio and positioning
 - /books/ : books index
+- /books/fire-in-the-windows/ : title page
 - /books/slipstream/ : title page
 - /books/the-man-in-plain-sight/ : title page
 - /books/when-summer-ends/ : title page
@@ -19,6 +20,7 @@ Primary pages:
 - /privacy/ : privacy note
 
 Books:
+- Fire in the Windows
 - Slipstream
 - The Man in Plain Sight
 - When Summer Ends
