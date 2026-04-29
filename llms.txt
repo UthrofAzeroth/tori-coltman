@@ -4,28 +4,54 @@ Base URL: https://uthrofazeroth.github.io/tori-coltman/
 Site type: public author website
 
 Summary:
-Tori Coltman writes emotionally grounded contemporary love stories shaped by timing, closeness, class, and change.
+Tori Coltman writes emotionally grounded contemporary love stories shaped by timing, closeness, class, cities, second chances, and change.
 
 Primary pages:
 - / : homepage and featured books
 - /about/ : author bio and positioning
-- /books/ : books index
-- /books/fire-in-the-windows/ : title page
-- /books/slipstream/ : title page
-- /books/the-man-in-plain-sight/ : title page
-- /books/when-summer-ends/ : title page
-- /books/before-winter/ : title page
-- /books/thirty-minutes/ : title page
+- /books/ : full books index
+- /books/thirty-minutes/ : Thirty Minutes title page
+- /books/before-winter/ : Before Winter title page
+- /books/when-summer-ends/ : When Summer Ends title page
+- /books/the-man-in-plain-sight/ : The Man in Plain Sight title page
+- /books/slipstream/ : Slipstream title page
+- /books/no-safe-distance/ : No Safe Distance title page
+- /books/the-city-that-waited/ : The City That Waited title page
+- /books/what-washington-keeps/ : What Washington Keeps title page
+- /books/one-night-in-paris/ : One Night in Paris title page
+- /books/when-the-ferries-come-home/ : When the Ferries Come Home title page
+- /books/home-after-all/ : Home After All title page
+- /books/fire-in-the-windows/ : Fire in the Windows title page
+- /books/the-things-we-tried-to-save/ : The Things We Tried to Save title page
+- /books/house-lights-off/ : House Lights Off title page
+- /books/nobodys-daughter/ : Nobody's Daughter title page
+- /books/silver-in-the-rain/ : Silver in the Rain title page
+- /books/gold-weather/ : Gold Weather title page
 - /information/ : site information
 - /privacy/ : privacy note
 
-Books:
-- Fire in the Windows
-- Slipstream
-- The Man in Plain Sight
-- When Summer Ends
-- Before Winter
+Standalone books:
 - Thirty Minutes
+- Before Winter
+- When Summer Ends
+- The Man in Plain Sight
+- Slipstream
+- No Safe Distance
+
+Cities of Exile:
+- Book 1: The City That Waited
+- Book 2: What Washington Keeps
+- Book 3: One Night in Paris
+- Book 4: When the Ferries Come Home
+- Book 5: Home After All
+
+The Last Bright Things:
+- Book 1: Fire in the Windows
+- Book 2: The Things We Tried to Save
+- Book 3: House Lights Off
+- Book 4: Nobody's Daughter
+- Book 5: Silver in the Rain
+- Book 6: Gold Weather
 
 Public contact:
 - No public direct contact email is currently listed on the site.

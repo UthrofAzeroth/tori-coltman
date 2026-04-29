@@ -361,6 +361,28 @@ p:last-child{margin-bottom:0}
   margin:0;
   padding-left:1.15rem;
 }
+
+.catalogue-section{
+  padding:2.2rem 0 1.4rem;
+}
+.catalogue-section + .catalogue-section{
+  border-top:1px solid rgba(118,95,88,.14);
+  margin-top:1.4rem;
+}
+.series-heading{
+  margin:0 0 1.25rem;
+}
+.series-heading h2{
+  max-width:none;
+}
+.book-kicker{
+  margin:0 0 .35rem;
+  text-transform:uppercase;
+  letter-spacing:.12em;
+  font-size:.72rem;
+  color:var(--muted);
+}
+
 @media (max-width:920px){
   .hero-grid,.split,.books-grid,.book-page-grid{
     grid-template-columns:1fr;

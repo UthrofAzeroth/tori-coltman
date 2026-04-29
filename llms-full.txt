@@ -3,42 +3,63 @@
 This is a static author website for Tori Coltman.
 
 Author positioning:
-Emotionally grounded contemporary love stories shaped by timing, closeness, class, and change.
+Emotionally grounded contemporary love stories shaped by timing, closeness, class, cities, second chances, and change.
 
 Homepage summary:
-The homepage introduces Tori Coltman, presents the core positioning line, and links directly to the books catalogue and About page.
+The homepage introduces Tori Coltman, presents the core positioning line, and links directly to the full books catalogue and About page. It highlights standalone novels plus the Cities of Exile and The Last Bright Things series.
 
 About page summary:
-The About page contains the longer author bio:
-Tori Coltman writes contemporary love stories that stay close to emotional truth and the moments that quietly change everything. The books move between ordinary life and pressured elite worlds, but remain focused on intimacy, longing, hope, grief, desire, and change.
+The About page contains the longer author bio and positions Tori Coltman as an author of contemporary fiction focused on emotional truth, intimacy, longing, hope, grief, desire, work, belonging, and change.
 
 Books index summary:
-The Books page introduces the body of work with this line:
-These novels are shaped by timing, closeness, hope, loss, class, and the emotional pressure carried inside ordinary lives.
+The Books page is organised into three sections: standalone Books, Cities of Exile, and The Last Bright Things.
 
 Book pages:
-- Fire in the Windows: Tender, intimate, and full of city-night atmosphere, Fire in the Windows is a contemporary love story about shelter, belonging, and the people who let us in.
-- Slipstream: An adult contemporary romance set inside elite motorsport, where ambition, class, and scrutiny turn attraction into something dangerous to ignore.
+- Thirty Minutes: A contemporary love story about attraction, hesitation, and the way a brief encounter can turn into something far more difficult to ignore.
+- Before Winter: An intimate love story about illness, care, and the emotional truth of staying close when time suddenly feels more fragile.
+- When Summer Ends: A contemporary romance about attraction, timing, and the intensity of connection when ordinary life is temporarily held at a distance.
 - The Man in Plain Sight: A contemporary romance about desire, inheritance, social control, and the cost of choosing what is true over what is easy.
-- When Summer Ends: A contemporary romance about attraction, timing, and the fragile intensity of connection when people meet outside the shape of ordinary life.
-- Before Winter: A deeply intimate love story shaped by illness, care, time running short, and the emotional truth of what it means to stay close when everything changes.
-- Thirty Minutes: A contemporary love story about attraction, timing, and the way ordinary encounters can open into something life-changing.
+- Slipstream: An adult contemporary romance set inside elite motorsport, where ambition, class, and scrutiny turn attraction into something dangerous to ignore.
+- No Safe Distance: A romantic suspense novel about trust, danger, and the pull between two people who cannot keep a safe distance from what they feel or what threatens them.
+- The City That Waited: Cities of Exile Book 1: a contemporary romance about memory, return, and the city that holds a life in suspension until love makes movement possible.
+- What Washington Keeps: Cities of Exile Book 2: a romance set against guarded histories, private loyalties, and the things a powerful city chooses not to say aloud.
+- One Night in Paris: Cities of Exile Book 3: a romance about one night, one city, and the kind of connection that changes the shape of everything after it.
+- When the Ferries Come Home: Cities of Exile Book 4: a love story of crossings, return, old weather, and the emotional tide that brings people back to what still matters.
+- Home After All: Cities of Exile Book 5.
+- Fire in the Windows: The Last Bright Things Book 1: a tender New York romance about shelter, belonging, and the people who let us in.
+- The Things We Tried to Save: The Last Bright Things Book 2: a novel of love, repair, and second chances.
+- House Lights Off: The Last Bright Things Book 3: a Los Angeles novel of love, work, and second chances.
+- Nobody's Daughter: The Last Bright Things Book 4: a small-town novel of love, work, and coming home.
+- Silver in the Rain: The Last Bright Things Book 5: a contemporary romance about weather, memory, and the fragile shine that remains after loss.
+- Gold Weather: The Last Bright Things Book 6: a contemporary romance about warmth after difficulty, late light, and the courage to choose what still feels alive.
 
 Site notes:
 - No author photo is used.
 - No newsletter is used.
 - No public direct contact email is listed.
-- Retailer links are included on each title page.
+- Retailer links are included on each completed title page where an Amazon URL is available.
+- Home After All is included as Cities of Exile Book 5, with its Amazon URL and full description still to be added before publication.
 
 Important URLs:
 - https://uthrofazeroth.github.io/tori-coltman/
 - https://uthrofazeroth.github.io/tori-coltman/about/
 - https://uthrofazeroth.github.io/tori-coltman/books/
-- https://uthrofazeroth.github.io/tori-coltman/books/fire-in-the-windows/
-- https://uthrofazeroth.github.io/tori-coltman/books/slipstream/
-- https://uthrofazeroth.github.io/tori-coltman/books/the-man-in-plain-sight/
-- https://uthrofazeroth.github.io/tori-coltman/books/when-summer-ends/
-- https://uthrofazeroth.github.io/tori-coltman/books/before-winter/
 - https://uthrofazeroth.github.io/tori-coltman/books/thirty-minutes/
+- https://uthrofazeroth.github.io/tori-coltman/books/before-winter/
+- https://uthrofazeroth.github.io/tori-coltman/books/when-summer-ends/
+- https://uthrofazeroth.github.io/tori-coltman/books/the-man-in-plain-sight/
+- https://uthrofazeroth.github.io/tori-coltman/books/slipstream/
+- https://uthrofazeroth.github.io/tori-coltman/books/no-safe-distance/
+- https://uthrofazeroth.github.io/tori-coltman/books/the-city-that-waited/
+- https://uthrofazeroth.github.io/tori-coltman/books/what-washington-keeps/
+- https://uthrofazeroth.github.io/tori-coltman/books/one-night-in-paris/
+- https://uthrofazeroth.github.io/tori-coltman/books/when-the-ferries-come-home/
+- https://uthrofazeroth.github.io/tori-coltman/books/home-after-all/
+- https://uthrofazeroth.github.io/tori-coltman/books/fire-in-the-windows/
+- https://uthrofazeroth.github.io/tori-coltman/books/the-things-we-tried-to-save/
+- https://uthrofazeroth.github.io/tori-coltman/books/house-lights-off/
+- https://uthrofazeroth.github.io/tori-coltman/books/nobodys-daughter/
+- https://uthrofazeroth.github.io/tori-coltman/books/silver-in-the-rain/
+- https://uthrofazeroth.github.io/tori-coltman/books/gold-weather/
 - https://uthrofazeroth.github.io/tori-coltman/information/
 - https://uthrofazeroth.github.io/tori-coltman/privacy/

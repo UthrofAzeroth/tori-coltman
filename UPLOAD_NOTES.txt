@@ -1,16 +1,30 @@
-Upload the contents of this zip to the root of the GitHub repository.
+Tori Coltman website update — 2026-04-29
 
-Important:
-- Leave the existing JPG cover files in place on GitHub.
-- This package intentionally does not include the JPG cover files.
-- Upload the folders and files as they are.
-- Pages should be set to deploy from main / (root).
+This archive updates the site catalogue to include:
+- Standalone Books
+- Cities of Exile
+- The Last Bright Things
 
-Cover filenames expected by the HTML:
-- Before Winter ebook cover.jpg
+Home After All is included as Cities of Exile Book 5, but its Amazon URL and full story description are intentionally not added yet.
+Do not publish the updated site publicly until the Home After All KDP/Amazon link and final description are ready, unless you remove that book from visible catalogue pages first.
+
+Cover image files referenced at the site root:
 - Thirty Minutes ebook cover.jpg
+- Before Winter ebook cover.jpg
 - When summer ends ebook cover.jpg
-- Slipstream ebook cover.jpg
 - The man in plain sight ebook cover.jpg
-
+- Slipstream ebook cover.jpg
+- No safe distance ebook cover.jpg
+- The city that waits ebook cover.jpg
+- what washing keeps ebook cover.jpg
+- one night in paris ebook cover.jpg
+- when the ferries come home ebook cover.jpg
+- home after all ebook cover.jpg
 - Fire in the windows ebook cover.jpg
+- The things we tried to save ebook cover.jpg
+- house lights off ebook cover.jpg
+- nobody's daughter ebook cover.jpg
+- silver in the rain ebook cover.jpg
+- gold weather ebook cover.jpg
+
+Upload the JPG cover files to the same directory level as index.html.
