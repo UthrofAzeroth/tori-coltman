@@ -1,12 +1,11 @@
 Tori Coltman website update — 2026-04-29
 
-This archive updates the site catalogue to include:
+This archive finalises the expanded site catalogue to include:
 - Standalone Books
 - Cities of Exile
 - The Last Bright Things
 
-Home After All is included as Cities of Exile Book 5, but its Amazon URL and full story description are intentionally not added yet.
-Do not publish the updated site publicly until the Home After All KDP/Amazon link and final description are ready, unless you remove that book from visible catalogue pages first.
+Home After All has now been completed with its Amazon URL and site description.
 
 Cover image files referenced at the site root:
 - Thirty Minutes ebook cover.jpg
