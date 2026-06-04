@@ -19,8 +19,8 @@
   --brass: #b28a43;
   --cream: #fffaf0;
   --shadow: 0 24px 80px rgba(32, 24, 18, .17);
-  --max: 1180px;
-  --rail: 264px;
+  --max: 1120px;
+  --rail: 232px;
   --serif: Georgia, "Times New Roman", Times, serif;
   --sans: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
@@ -327,31 +327,32 @@ h3 { font-size: clamp(1.7rem, 3.2vw, 3.1rem); }
 }
 .copy-block p:last-child { margin-bottom: 0; }
 
-/* Books as a gallery wall. */
+/* Books as an atelier folio, not a cramped masonry wall. */
 .grid.books-grid {
   display: grid;
-  grid-template-columns: repeat(12, minmax(0, 1fr));
-  gap: clamp(16px, 2.6vw, 30px);
+  grid-template-columns: 1fr;
+  gap: clamp(18px, 2.4vw, 32px);
   align-items: stretch;
+  max-width: 1040px;
+  margin-inline: auto;
 }
 .book-card {
   position: relative;
   display: grid;
-  grid-template-columns: minmax(112px, 210px) minmax(0, 1fr);
+  grid-template-columns: minmax(210px, .42fr) minmax(0, .58fr);
   gap: 0;
-  grid-column: span 6;
-  min-height: 300px;
+  min-height: 340px;
   background: var(--paper-soft);
   border: 1px solid var(--line-strong);
   box-shadow: var(--shadow);
-  overflow: clip;
+  overflow: hidden;
 }
-.books-grid > .book-card:nth-child(1) { grid-column: span 7; grid-row: span 2; }
-.books-grid > .book-card:nth-child(2) { grid-column: span 5; }
-.books-grid > .book-card:nth-child(3) { grid-column: span 5; }
-.books-grid > .book-card:nth-child(4) { grid-column: span 4; }
-.books-grid > .book-card:nth-child(5) { grid-column: span 4; }
-.books-grid > .book-card:nth-child(6) { grid-column: span 4; }
+.books-grid > .book-card:nth-child(n) {
+  grid-column: auto;
+  grid-row: auto;
+}
+.books-grid > .book-card:nth-child(even) .book-cover { order: 2; }
+.books-grid > .book-card:nth-child(even) .book-content { order: 1; }
 .book-card::before {
   content: "";
   position: absolute;
@@ -368,21 +369,23 @@ h3 { font-size: clamp(1.7rem, 3.2vw, 3.1rem); }
   place-items: center;
 }
 .book-cover img {
-  width: min(100%, 180px);
-  max-height: 310px;
+  width: min(100%, 210px);
+  max-height: 320px;
   object-fit: contain;
   filter: saturate(.94) contrast(1.03);
   box-shadow: 0 18px 38px rgba(0,0,0,.34);
 }
 .book-content {
   position: relative;
-  padding: clamp(22px, 3vw, 38px);
+  min-width: 0;
+  padding: clamp(24px, 4vw, 52px);
   display: grid;
   align-content: center;
 }
 .book-title {
-  font-size: clamp(2rem, 3.8vw, 4.7rem);
-  max-width: 8ch;
+  font-size: clamp(2.45rem, 5vw, 5.8rem);
+  max-width: 12ch;
+  overflow-wrap: anywhere;
 }
 .book-card .meta { margin: 18px 0 0; max-width: 44ch; }
 .book-card:nth-child(even) .book-cover { background: linear-gradient(180deg, rgba(154,65,46,.98), rgba(42,23,37,.94)); }
@@ -491,8 +494,8 @@ body:has(.book-page-grid) .page-top .wrap > .copy-block:first-child { display: b
 
 :focus-visible { outline: 3px solid var(--brass); outline-offset: 3px; }
 
-@media (max-width: 1100px) {
-  :root { --rail: 222px; }
+@media (max-width: 1180px) {
+  :root { --rail: 210px; }
   .brand { grid-template-columns: 48px 1fr; }
   .brand-mark { width: 48px; }
   h1 { font-size: clamp(4.2rem, 13vw, 9rem); }
@@ -502,7 +505,7 @@ body:has(.book-page-grid) .page-top .wrap > .copy-block:first-child { display: b
   .cover-frame { position: relative; top: auto; }
 }
 
-@media (max-width: 860px) {
+@media (max-width: 960px) {
   body { background-size: auto, auto, 56px 56px, 56px 56px, auto; }
   .site-header {
     position: sticky;
@@ -543,8 +546,10 @@ body:has(.book-page-grid) .page-top .wrap > .copy-block:first-child { display: b
   .grid.books-grid { grid-template-columns: 1fr; }
   .book-card,
   .books-grid > .book-card:nth-child(n) { grid-column: auto; }
-  .book-card { grid-template-columns: minmax(92px, 34%) 1fr; min-height: 250px; }
-  .book-title { font-size: clamp(1.8rem, 8vw, 3.2rem); }
+  .book-card { grid-template-columns: minmax(130px, 38%) 1fr; min-height: 260px; }
+  .books-grid > .book-card:nth-child(even) .book-cover,
+  .books-grid > .book-card:nth-child(even) .book-content { order: initial; }
+  .book-title { font-size: clamp(2rem, 8vw, 3.6rem); }
   .footer-inner { display: grid; }
   .footer-nav { justify-content: flex-start; }
 }

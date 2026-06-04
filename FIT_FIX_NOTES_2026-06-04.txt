@@ -1,0 +1,8 @@
+Fit fix applied 2026-06-04
+
+This pass keeps the adult atelier/editorial direction but corrects the Books page fit issue:
+- Replaced the cramped masonry-like book grid with a full-width folio spread layout.
+- Reduced the fixed desktop rail width.
+- Increased responsive breakpoint so smaller desktop/laptop windows switch to a top header before the content is squeezed.
+- Allowed long titles to wrap inside their cards instead of clipping out of view.
+- Preserved all JPG references and existing static GitHub Pages structure.
