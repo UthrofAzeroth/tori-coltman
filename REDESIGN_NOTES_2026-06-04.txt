@@ -1,9 +1,17 @@
-Tori Coltman website redesign, revision 2 — bright modern catalogue/poster direction.
+Tori Coltman redesign pass — Atelier / adult editorial version
+Date: 2026-06-04
 
-This pass intentionally moves away from the previous darkened version. It uses a high-contrast paper grid, strong black rules, cobalt/coral/accent panels, poster-like navigation, larger page titles, and sharper book catalogue cards.
+Intent
+- Replace the earlier dark and bright-poster attempts with a genuinely different, adult, classy structure.
+- Move away from the original top-header/card-template feel.
+- Use a fixed left editorial rail on desktop, asymmetric gallery-style book cards, large art-book typography, and a private-press catalogue mood.
 
-Preserved constraints:
-- No JPG files are included in this ZIP.
-- Existing JPG src references in the HTML are preserved and continue to point at the image filenames expected on the GitHub Pages site.
-- Static GitHub Pages structure is preserved.
-- No frameworks, package managers, or build step added.
+Constraints preserved
+- No JPG files included. The site continues to reference the same JPG filenames already expected to live on GitHub Pages.
+- Static HTML/CSS only. No framework, JavaScript, build step, or external font dependency added.
+- Site folder structure, canonical URLs, sitemap, robots, manifest, Amazon links, and book copy were retained.
+
+Validation performed
+- Compared image src references against the source archive per HTML page.
+- Checked local internal href targets.
+- Confirmed the ZIP reopens cleanly.
