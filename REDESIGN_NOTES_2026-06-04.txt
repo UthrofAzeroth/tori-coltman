@@ -1,0 +1,24 @@
+Tori Coltman website redesign notes - 2026-06-04
+
+Design direction:
+- Dark editorial catalogue / literary bookshop look.
+- Stronger contrast, angular panels, catalogue numbering, ink-paper-copper palette.
+- Lightweight static HTML/CSS suitable for GitHub Pages.
+
+What changed:
+- Replaced the previous soft cream rounded-card visual system with a darker editorial design in style.css.
+- Updated HTML theme-color meta tags from #fbf7f2 to #10100f to match the new visual identity.
+
+What did not change:
+- JPG cover file references were preserved exactly.
+- Internal page paths and GitHub Pages structure were preserved.
+- Book titles, descriptions, Amazon links, sitemap, robots.txt, llms files, and page content were not intentionally rewritten.
+- No external framework or build step was added.
+
+Validation performed:
+- All 23 HTML files found.
+- All 40 image src attributes match the source archive exactly.
+- Internal local href targets checked with no broken local links found.
+
+Upload note:
+- This ZIP still expects the existing JPG cover files to remain available on the GitHub Pages site at the same referenced paths/names.
